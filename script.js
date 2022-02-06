@@ -1,1 +1,3 @@
-console.log("This is working");
+const quote = [];
+const titleName = [];
+const titleGenre = [];
